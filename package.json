@@ -11,7 +11,8 @@
     "dev:sanity": " bun run typegen && next dev --turbopack",
     "typegen": "bun x sanity@latest schema extract && bun x sanity@latest typegen generate",
     "prepare": "husky",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "test": "echo \"Error: no test specified, mark it as success for CI setup for now\" && exit 0"
   },
   "dependencies": {
     "@clerk/nextjs": "^6.9.6",

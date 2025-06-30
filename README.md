@@ -2,7 +2,7 @@
 
 ![E-commerce Banner](./public/og-img.png)
 
-## 🚀 Descriptions
+## 🚀 Description
 
 A modern and robust e-commerce application built with Next.js 15, TypeScript, Tailwind CSS, and Sanity CMS. This application offers a seamless shopping experience with features like user authentication, cart management, and a headless CMS for product management.
 
